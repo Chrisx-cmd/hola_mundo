@@ -12,9 +12,7 @@ reseña:es un lenguaje de programación de propósito general conocido por su si
 
 codigo:
 
-```print("hola mundo")
-
-```
+```print("hola mundo") ```
 
 ## Hola mundo en bash
 
@@ -26,9 +24,7 @@ reseña:es el intérprete de comandos predeterminado en la mayoría de los siste
 
 codigo:
 
-```echo "hola mundo"
-
-``
+```echo "hola mundo" ```
 
 
 
